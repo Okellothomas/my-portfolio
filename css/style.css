@@ -18,15 +18,39 @@ body{
     background-color: rgb(221, 214, 214);
 
 }
-.portfolio{
+#portfolio{
     margin-left: 3.4em;
     margin-right: 3.3em;
 }
 @media screen and (min-width: 700px) {
-    .portfolio{
-        margin-left: 4.4em;
-        margin-right: 4.3em;
-        height: 50%;
+    #portfolio{
+        margin-left: 4.8em;
+        margin-right: 4.8em;
     }
+    #portfolio img{
+        width: 100%;
+        height: 73vh;
+    }
+}
+#portfolio h5, p{
+  
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+    font-size: 27px;
+    text-emphasis: bold;
+    text-decoration: solid;
+    font-weight: 100;
+    color: aqua;
+    /* background-color: aliceblue; */
+}
+#portfolio p{
+  
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 17px;
+    text-emphasis: bold;
+    text-decoration: solid;
+    font-weight: 100;
+    color: aqua;
+    /* background-color: aliceblue; */
 }
 
