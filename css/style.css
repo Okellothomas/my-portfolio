@@ -24,29 +24,17 @@ body{
     background-color: rgb(221, 214, 214);
 
 }
-#portfolio{
-    /* margin-left: 3.4em;
-    margin-right: 3.3em; */
-}
-@media screen and (min-width: 700px) {
-    #portfolio{
-        /* margin-left: 4.8em;
-        margin-right: 4.8em; */
-    }
+/* @media screen and (max-width: 600px) {
     #portfolio img{
         width: 100%;
-        height: 73vh;
+        height: 100em;
     }
-}
-/* @media screen and (max-width: 400px) {
-    #portfolio{
-        margin-left: 3.4em;
-        margin-right: 3.3em;
-    }
+} */
+@media screen and (min-width: 400px) {
     #portfolio img{
         width: 100%;
-        height: 53vh;
-    } */
+        height: 52vh;
+    } 
 }
 #portfolio h5, p{
   
@@ -76,4 +64,24 @@ body{
 .one{
     color: brown;
 }
+.projects{
+    width: max-content;
+    width: 100%;
+}
+
+@media screen and (min-width: 400px) {
+    .projects h1{
+        color: wheat;
+        text-align: center;
+        font-size: 1.2em;
+        border: 1px solid yellow;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+}
+.col{
+    width: 100%;
+    /* border: 1px solid rebeccapurple; */
+}
+
+
 
