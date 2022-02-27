@@ -137,5 +137,11 @@ body{
     margin-top: 0px;
     border-radius: 60%;
 }
+.navbar-brand:hover{
+    background-color: aquamarine;
+    color: red;
+    border: 1px solid green;
+    border-radius: 50%;
+}
 
 
