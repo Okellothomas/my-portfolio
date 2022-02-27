@@ -128,5 +128,8 @@ body{
     background-color: azure;
     border-radius: 39%;
 }
+#About ol{
+    color: rgb(49, 48, 128);
+}
 
 
