@@ -131,5 +131,11 @@ body{
 #About ol{
     color: rgb(49, 48, 128);
 }
+.foot{
+    text-align: center;
+    background-color: #fff;
+    margin-top: 0px;
+    border-radius: 60%;
+}
 
 
