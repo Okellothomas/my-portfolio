@@ -12,4 +12,4 @@
 ### Copyright (c) [2022] [Okello Thomas]
 ### Anyperson is granted the right obtain, alter and modify this software, without much restriction. The above right hold only if the use is not for malicious ends. 
 # Link
-### Access the my-porfolio here [my-porfolio](https://okellothomas.github.io/my-portfolio/)
+### Access the my-Akan-Name here [my-Akan-name](https://okellothomas.github.io/my-akanName/)
